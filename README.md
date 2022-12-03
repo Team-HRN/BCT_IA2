@@ -16,7 +16,7 @@
 
 <p align="center">
   <em>
-    Sure Password is a password manager made in python which stores passwords of multiple users for various applications in encrypted form and decrypts them when needed. It is implemented using cryptography package in python. 
+    Sure Password is an Encrypted password manager made in python which stores passwords of multiple users for various applications in encrypted form and decrypts them when needed. It is implemented using cryptography package in python. 
  
   </em> 
 
